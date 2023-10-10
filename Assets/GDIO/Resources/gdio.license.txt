@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<license>
+  <licensee>Leonardo Medina_medina.engineering@outlook.com_ptw</licensee>
+  <licenseid>TRIAL</licenseid>
+  <hostid>ANY</hostid>
+  <platforms>
+    <platform>Windows</platform>
+    <platform>macOS</platform>
+    <platform>iOS</platform>
+  </platforms>
+  <addins>
+    <addin>Visual Studio</addin>
+    <addin>Visual Studio Mac</addin>
+  </addins>
+  <start_date>2023-10-04</start_date>
+  <expiration_date>2023-10-19</expiration_date>
+  <signature>8A0D8D835D36C81707DC2A899FBED018B04238D123B2B8875953D1689B8622691588650529BC6B3B8BA34DA32B86D75D2655FA04E36017C164CD8B5DC326AE0C</signature>
+</license>
